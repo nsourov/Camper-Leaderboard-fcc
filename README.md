@@ -7,4 +7,4 @@ clone this repo
 npm install
 npm start
 ```
-live: 
+live:  camper-leaderboard-fcc.surge.sh
